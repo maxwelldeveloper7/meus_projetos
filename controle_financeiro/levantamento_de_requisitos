@@ -1,0 +1,22 @@
+Saldo = R$?
+
+colunas da tabela
+
+Data	| Nº doc |	Histórico	| Entrada | Saída | Saldo |
+
+Data --> conterá a data de cada movimentação
+
+Nº   --> Número sequencial
+
+Histórico --> O histórico conterá a descrição  do movimento, inclusive,
+de qual origem(c/c poupança e caixa local) sairá o dinheiro e o destino(despesas)
+
+Entrada --> valor da entrada
+
+Saída   --> valor da saída
+
+Saldo   --> saldo anterior
+
+Contas: Devedora Credora
+
+
