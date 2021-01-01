@@ -1,5 +1,5 @@
 body{
-    width: 90%;
+    width: 950px;
     margin: 0 auto;
 }
 
@@ -9,4 +9,21 @@ header {
 
 main{
     border: 1px solid blue;
+}
+
+table{
+    width: 940px;
+    margin: auto;
+    border: 1px solid;
+}
+
+table thead tr th{
+    padding: 1em;
+    background-color: khaki;
+}
+
+table tbody tr td{
+    padding: 0.5em;
+    background-color: lemonchiffon;
+    text-align: right;
 }
